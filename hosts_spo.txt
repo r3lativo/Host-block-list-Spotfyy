@@ -4,10 +4,13 @@
 #
 #I just created this file to use this list with AdAway on Android, I made nothing else.
 #
+
 127.0.0.1  localhost
+
 ::1  localhost
+
 #
-############## SPOTIFY - ADS - BEGIN
+#SPOTIFY - ADS - BEGIN
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
@@ -59,4 +62,4 @@
 127.0.0.1 heads-ec.spotify.com
 127.0.0.1 open.spotify.com
 127.0.0.1 spclient.wg.spotify.com
-############## SPOTIFY - ADS - END
+#SPOTIFY - ADS - END
